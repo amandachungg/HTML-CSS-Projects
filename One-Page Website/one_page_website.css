@@ -30,6 +30,7 @@ NAV STYLES
     width: 100%;
     position: fixed;
     text-align: center;
+    overflow:hidden;
 }
 
 .menu li{
